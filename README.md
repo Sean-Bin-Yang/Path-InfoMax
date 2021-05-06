@@ -18,8 +18,8 @@ We use two dataset in our paper Aalborg and Harbin and download the [Harbin](htt
 
 ## Requirements
 
-  * Ubuntu OS (16.04)
-  * PyTorch >=1.2.0
+  * Ubuntu OS (18.04)
+  * PyTorch =1.7.1
   * Numpy >= 1.16.2
   * Pickle
 
