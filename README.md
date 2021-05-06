@@ -1,6 +1,6 @@
 # Path-InfoMax
 
-Unsupervised Path Representation Learning with Curriculum Negative Sampling
+Unsupervised Path Representation Learning with Curriculum Negative Sampling (S. Yang, J. Hu, C. Guo, J. Tang and B. Yang, IJCAI2021):[]()
 
 ![image](https://github.com/Sean-Bin-Yang/Path-InfoMax/blob/502ea3a57a578b325b704f50eb9808ee5968b744/Fig1.png)
 
@@ -16,22 +16,23 @@ To better understand the code, we recommend that you could read the code of DGI/
 
 ## Requirements
 
-  * PyTorch 1.2.0
-  * Python 3.6
+  * Ubuntu OS (16.04)
+  * PyTorch >=1.2.0
+  * Numpy >= 1.16.2
+  * Pickle
 
 ## Usage
 
-```python execute.py```
+```python train.py```
 
 ## Cite
-Please cite our paper if you make advantage of GMI in your research:
+Please cite our paper if you make advantage of PIM in your research:
 
 ```
 @inproceedings{
-peng2020graph,
-title="{Graph Representation Learning via Graphical Mutual Information Maximization}",
-author={Peng, Zhen and Huang, Wenbing and Luo, Minnan and Zheng, Qinghua and Rong, Yu and Xu, Tingyang and Huang, Junzhou},
-booktitle={Proceedings of The Web Conference},
-year={2020},
-doi={https://doi.org/10.1145/3366423.3380112},
+IJCAI21,
+title="{Unsupervised Path Representation Learning with Curriculum Negative Sampling}",
+author={Sean Bin Yang, Jilin Hu, Chenjuan Guo, Jian Tang and Bin Yang},
+booktitle={Proceedings of The  30th International Joint Conference on Artificial Intelligence},
+year={2021},
 }
