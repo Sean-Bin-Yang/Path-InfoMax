@@ -14,7 +14,7 @@ Here we give a PyTorch implementation of PIM. The repository is organized as fol
 To better understand the code, we recommend that you could read the code of DGI/Petar (https://arxiv.org/abs/1809.10341) in advance. Besides, you could further optimize the code based on your own needs.
 
 ## Dataset
-We use two dataset in our paper Aalborg and Harbin and download the [Harbin](https://drive.google.com/file/d/1tdgarnn28CM01o9hbeKLUiJ1o1lskrqA/view) dataset to train the PIM.
+We use two dataset in our paper: Aalborg and Harbin and you can download the [Harbin](https://drive.google.com/file/d/1tdgarnn28CM01o9hbeKLUiJ1o1lskrqA/view) dataset to train the PIM, where the pre-processing is needed.
 
 ## Requirements
 
